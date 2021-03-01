@@ -1,7 +1,10 @@
 ## Welcome to GitHub Pages
 
-
+[Login](Login.html)
+[Verify Age](Verify-Age.html)
 [Shop For Groceries](Shop-For-Groceries.html)
+[Checkout](Checkout.html)
+[Help](Help.html)
 
 
 You can use the [editor on GitHub](https://github.com/avaldez125/Grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
